@@ -1,0 +1,6 @@
+server:
+  port: 8082
+
+backend:
+  url: http://158.160.13.4:8082
+
